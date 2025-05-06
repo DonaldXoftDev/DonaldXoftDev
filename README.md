@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @DonaldXoftDev
-- 👀 I’m interested in python,django,zk loginand blockchain projects
-- 🌱 I’m currently learning #100daysofcode by Angela Yu_Udemy
-- 💞️ I’m looking to collaborate on python,django,blockchain projects
-- 📫 How to reach me : on twitter( https://x.com/DonaldXoftDev?t=vhiqmQxREk4eU8hjh9g2iQ&s=09)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: enjoy coding and exploring different stuff in tech space
-- 🚀 open to freelance opportunities 
-<!---
-DonaldXoftDev/DonaldXoftDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Hi! 👋 I'm DonaldXoftDev
+
+A beginner Python enthusiast excited about:
+🧠 **Machine Learning (ML):** Exploring how computers learn from data to make predictions and automate tasks. I'm starting with libraries like scikit-learn.
+🌐 **Web Development (Django):** Learning to build interactive and user-friendly websites and web applications using the powerful Django framework.
+📊 **Data Analysis:** Discovering patterns and insights from data using tools like Pandas and NumPy to understand trends and make informed decisions.
+
+**My First Projects 🛠️:**
+
+* To-Do List App ✅: A basic program to manage daily tasks.
+* Common Word Finder 🔍: A tool to identify the most frequent words in text.
+* Blackjack Game (OOP) 🃏: A command-line card game built with object-oriented principles.
+* Hangman 🔡: The classic word-guessing game.
+* Quiz Game (OOP) ❓: An interactive quiz application using object-oriented programming.
+* Password Generator 🔒: A utility to create strong, random passwords for better security.
+* Rock Paper Scissors ✊✋✌️: A simple game against the computer using Python dictionaries.
+
+**Skills I'm Learning 🌱:** Python (Beginner), scikit-learn (for ML), Django (for Web), Pandas & NumPy (for Data).
+
+**Learning Tools 📝:** Git (for version control), basic code editors.
+
+I am also open to freelance opportunities 💼 and collaborations 🤝 to help me endorse myself with working in a team setting and   put my knowledge of all the skills  I've acquired into use.
+
+**Let's Connect! 🤝** Eager to learn and grow in the Python community. Feel free to reach out and connect!
