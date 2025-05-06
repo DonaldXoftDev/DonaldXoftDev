@@ -1,8 +1,11 @@
  Hi! 👋 I'm DonaldXoftDev
 
 A beginner Python enthusiast excited about:
+
 🧠 **Machine Learning (ML):** Exploring how computers learn from data to make predictions and automate tasks. I'm starting with libraries like scikit-learn.
+
 🌐 **Web Development (Django):** Learning to build interactive and user-friendly websites and web applications using the powerful Django framework.
+
 📊 **Data Analysis:** Discovering patterns and insights from data using tools like Pandas and NumPy to understand trends and make informed decisions.
 
 **My First Projects 🛠️:**
