@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a Software Engineering student at UNIZIK (4.88 GPA) specializing in Python backend architecture — clean APIs, solid data models, and systems that hold up under real-world conditions.
+I'm a Software Engineering student at UNIZIK (4.78 GPA) specializing in Python backend architecture — clean APIs, solid data models, and systems that hold up under real-world conditions.
 
 Currently building **LodgeOps** — a multi-tenant lodge management SaaS for the Nigerian student housing market, handling landlords, caretakers, tenants, leases, and payment tracking.
 
